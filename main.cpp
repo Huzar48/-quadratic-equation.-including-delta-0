@@ -62,10 +62,10 @@ class rownanie{
     friend class sprawdz; //deklaracja przyjazni do klasy sprawdz
     friend void zatwierdzDane(rownanie & obiekt); //deklaracja przyjazni do funkcji zatiwerdz dane
     friend class delta; //deklaracja przyjazni do klasy delta
-    friend void delta_dzial(rownanie & obiekt); //deklaracja przyjazni do funkcji zatiwerdz dane
-    friend void delta_zero(rownanie & obiekt); //deklaracja przyjazni do funkcji zatiwerdz dane
-    friend void delta_dod(rownanie & obiekt); //deklaracja przyjazni do funkcji zatiwerdz dane
-    friend void delta_uj(rownanie & obiekt); //deklaracja przyjazni do funkcji zatiwerdz dane
+    friend void delta_dzial(rownanie & obiekt); 
+    friend void delta_zero(rownanie & obiekt); 
+    friend void delta_dod(rownanie & obiekt); 
+    friend void delta_uj(rownanie & obiekt); 
 
 };
 
